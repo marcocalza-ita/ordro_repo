@@ -9,7 +9,7 @@ set -e
 # Website	:	https://www.arcolinuxforum.com
 
 ###############################################
-# Modificato:   marcocalza
+# Modificato:   marcocalza 
 ###############################################
 
 # cambia il tuo nome e la tua email.
